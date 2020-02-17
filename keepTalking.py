@@ -96,7 +96,7 @@ def abc123wires():
 				print("do not cut")
 			redCount += 1
 		else:
-			print("what the fuck is going on ")
+			print("what the is going on ")
 
 
 def ledStarWires():
